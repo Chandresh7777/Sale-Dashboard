@@ -1,6 +1,6 @@
 # Sale-Dashboard
-In this project we are contribyte to sucess of a business by utilizing data analysis techniques, speccifically focusing on 
-time series analysis, to provite valuable insights & accurate sale forecating using power BI.
+In this project we are contribute to sucess of a business by utilizing data analysis techniques, speccifically focusing on 
+time series analysis, to provide valuable insights & accurate sale forecating using power BI.
 four step done in this project :-** dashboard creation, data analysis, sales forecasting and actionable insights and recommendation**.
 
 After completation project learning points
